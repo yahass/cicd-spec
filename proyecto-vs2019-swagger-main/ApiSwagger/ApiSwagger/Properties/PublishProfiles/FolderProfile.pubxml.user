@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\aosor\Documents\Personal\Publicacion\ApiAzteca</_PublishTargetUrl>
+    <History>True|2021-06-02T17:59:29.5243281Z;True|2021-06-02T12:48:12.3389271-05:00;True|2021-06-02T11:15:21.7414982-05:00;</History>
+  </PropertyGroup>
+</Project>
